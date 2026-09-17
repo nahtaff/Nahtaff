@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Nahtaff
-- 👀 I’m interested in ui/ux design
-- 🌱 I’m currently learning UI Design
-- 💞️ I’m looking to collaborate on Unicorn Company
-- 📫 How to reach me https://linktr.ee/nahtaff
